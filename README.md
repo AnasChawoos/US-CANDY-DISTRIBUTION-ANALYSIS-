@@ -5,12 +5,16 @@ US Candy Store Sales Analysis - Power BI Project This repository contains a Powe
 📊 Project Overview The goal of this analysis is to understand sales performance, profitability, and customer trends by leveraging data visualization and advanced DAX calculations. The analysis highlights the top products, sales growth, and factory performance, among other key metrics.
 
 Repository Contents:
+
+
 README.md: This file, providing an overview of the project.
 US CANDY DISTRIBUTION.pbix : The Power BI file containing all the visualizations and data models used for the analysis.
 US CANDY DISTRIBUTION.pptx : PowerPoint presentation summarizing the project's findings and recommendations.
 
 
-Tools and Technologies
+Tools and Technologies :
+
+
 Power BI: Utilized for creating interactive dashboards and visualizing the data insights.
 
 Conclusion
