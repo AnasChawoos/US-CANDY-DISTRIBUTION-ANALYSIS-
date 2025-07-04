@@ -1,1 +1,6 @@
 # US-CANDY-DISTRIBUTION-ANALYSIS-
+
+US Candy Store Sales Analysis - Power BI Project This repository contains a Power BI project analyzing sales data for a US candy store, completed as part of a learning project through Maven Analytics. The project focuses on deriving key business insights using DAX measures and Power BI visualizations.
+
+📊 Project Overview The goal of this analysis is to understand sales performance, profitability, and customer trends by leveraging data visualization and advanced DAX calculations. The analysis highlights the top products, sales growth, and factory performance, among other key metrics.
+
